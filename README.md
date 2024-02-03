@@ -13,5 +13,6 @@
 
 ## 参考にした web サイトなど
 
-　　　-https://qiita.com/ryo-futebol/items/11dea44c6b68203228ff
-  -https://zenn.dev/clevercure/articles/cc9e24c652553b
+
+-https://qiita.com/ryo-futebol/items/11dea44c6b68203228ff
+-https://zenn.dev/clevercure/articles/cc9e24c652553b
